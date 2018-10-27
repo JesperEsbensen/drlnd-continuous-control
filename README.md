@@ -6,7 +6,10 @@ Created by Jesper Højmark Esbensen, 2018-10-27.<br>
 
 This note book will create and train an agent to follow a boble target in the Unity Machine Learning environment Reacher. The solution is based on the general deep reenforcement learning agent supplied in the cource [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
-![Reacher Environment](https://github.com/JesperEsbensen/drlnd-continuous-control/blob/master/Reacher20.png)
+![Reacher Environment with 20 agents](https://github.com/JesperEsbensen/drlnd-continuous-control/blob/master/Reacher20.png)
+
+![Reacher Environment with one agent](https://github.com/JesperEsbensen/drlnd-continuous-control/blob/master/Reacher.png)
+
 
 The environment is a robot arm with at spherical target moving around it in a circle. The agent can control the arm with 4 continuous actions. The robot arm gets a reward when the arm touches the sphere. The task is to move the robot arm so it follows the sphere. When a score of more that 30 has been reached, calculated as an average over 100 episods the environment is considdered solved.<br>
 
