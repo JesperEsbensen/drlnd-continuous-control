@@ -8,6 +8,8 @@ This note book will create and train an agent to follow a boble target in the Un
 
 ![Reacher Environment with 20 agents](https://github.com/JesperEsbensen/drlnd-continuous-control/blob/master/Reacher20.png =500x)
 
+<img src="Reacher.png" alt="drawing" width="500"/>
+
 ![Reacher Environment with one agent](https://github.com/JesperEsbensen/drlnd-continuous-control/blob/master/Reacher.png =500x)
 
 
