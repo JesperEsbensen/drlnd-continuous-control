@@ -4,7 +4,7 @@
 Created by Jesper Højmark Esbensen, 2018-11-11.<br>
 <br>
 
-This note book will create and train an agent to follow a boble target in the Unity Machine Learning environment Reacher. The solution is based on the general deep reenforcement learning agent supplied in the cource [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
+This note book will create and train an agent to follow a boble target in the Unity Machine Learning environment Reacher. The solution is based on the general deep reenforcement learning agent supplied in the course [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
 <img src="Reacher20.png" alt="Reacher Environment with 20 agents" width="500" align="middle"/>
 
